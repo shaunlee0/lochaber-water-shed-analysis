@@ -1,0 +1,61 @@
+# Python Bytecode Files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments
+env/
+venv/
+ENV/
+.venv/
+venv.bak/
+
+# IDE and Editor Files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Distribution / Packaging
+.Python
+build/
+dist/
+*.egg-info/
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# Pytest Cache
+.pytest_cache/
+
+# mypy
+.mypy_cache/
+
+# pipenv
+Pipfile.lock
+
+# Python Installer Logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# VSCode specific
+.vscode/
+
+# C extensions
+*.c
+*.cpp
+*.h
+*.so
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+
+# PyCharm
+.idea/
+
+# Pycharm specific file
+*.iml
